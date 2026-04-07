@@ -23,3 +23,19 @@
 ✔ 🤝 Open to collaborations in health tech, data science, education and interdisciplinary projects  
 
 ✔ ⚡ Fun fact: I connect philosophy, code and music — different systems, same patterns  
+
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+
+
