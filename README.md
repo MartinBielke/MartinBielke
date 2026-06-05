@@ -22,7 +22,7 @@
 
 ✔ 🤝 Open to collaborations in health tech, data science, education and interdisciplinary projects  
 
-✔ ⚡ Fun fact: I connect philosophy, code and music — different systems, same patterns  
+✔ ⚡ Interested in applying data and automation to real-world problems in healthcare, education and environmental monitoring
 
 ## Featured Projects
 
@@ -45,5 +45,5 @@ Environmental monitoring and alerting platform designed to detect wildfire risks
 <span>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
