@@ -32,6 +32,43 @@ Python-based platform for mapping stroke treatment capabilities across hospitals
 ### 🔥 Wildfire Early Warning System (Salta Province)
 Environmental monitoring and alerting platform designed to detect wildfire risks using geospatial and environmental data.
 
+<h1 align="center">Hi, I'm Martin Bielke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## Building data-driven solutions for healthcare, environmental monitoring and decision support
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ***About me***
+
+✔ 🧠 Developing healthcare decision-support systems focused on stroke (ACV) networks and hospital resource mapping
+
+✔ 🤖 Designing conversational bots (Telegram / WhatsApp) for structured data collection and automated reporting
+
+✔ 🗺️ Applying geospatial analysis to improve healthcare accessibility and support evidence-based decision making
+
+✔ 🔥 Building environmental monitoring and early-warning systems for wildfire risk detection
+
+✔ 💻 Working with Python, Jupyter, data analysis and automation workflows, while exploring AI integration and no-code orchestration tools
+
+✔ 📊 Interested in data-driven approaches to public health, environmental monitoring and social-impact technology
+
+✔ 📚 PhD in Philosophy with a strong interest in technology, media, critical thinking and interdisciplinary problem-solving
+
+✔ 🇩🇪 German teacher and translator (DE–ES–EN), experienced in digital language education and communication
+
+✔ 🎛️ Electronic music producer exploring synthesis, sequencing and creative systems
+
+✔ 🤝 Open to collaborations in health tech, data science, automation, education and public-interest technology
+
+## Featured Projects
+
+### 🏥 Stroke Care Capacity Mapping System
+
+A Python-based platform for mapping stroke treatment capabilities across hospitals. Features structured data collection, Telegram-based workflows, geospatial analysis and resource monitoring to support healthcare planning and decision-making.
+
+### 🔥 Wildfire Early Warning System (Salta Province)
+
+An environmental monitoring platform designed to identify wildfire risks through geospatial and environmental data analysis, supporting early detection and rapid response strategies.
+
+
 
 ## My Skills Include
 
