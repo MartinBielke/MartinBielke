@@ -45,10 +45,15 @@ Environmental monitoring and alerting platform designed to detect wildfire risks
 <span>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+
+<h4> Tools & Libraries </h4>
+
+<span>
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 
-Jupyter
+</span>
+Also...
 GitHub
 Telegram Bots
 Data Analysis
