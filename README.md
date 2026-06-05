@@ -25,7 +25,7 @@
 
 ✔ 🤝 Open to collaborations in health tech, data science, automation, education and public-interest technology
 
-## Project Highlights (More projects available in my repositories)
+## Project Highlights
 
 ### 🏥 Stroke Care Capacity Mapping System
 
