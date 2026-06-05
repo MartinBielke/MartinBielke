@@ -24,6 +24,14 @@
 
 ✔ ⚡ Fun fact: I connect philosophy, code and music — different systems, same patterns  
 
+## Featured Projects
+
+### 🏥 Stroke Care Capacity Mapping System
+Python-based platform for mapping stroke treatment capabilities across hospitals. Includes data collection workflows, Telegram bots, geospatial analysis and real-time resource monitoring.
+
+### 🔥 Wildfire Early Warning System (Salta Province)
+Environmental monitoring and alerting platform designed to detect wildfire risks using geospatial and environmental data.
+
 
 ## My Skills Include
 
