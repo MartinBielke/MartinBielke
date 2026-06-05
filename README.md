@@ -47,3 +47,9 @@ Environmental monitoring and alerting platform designed to detect wildfire risks
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+
+Jupyter
+GitHub
+Telegram Bots
+Data Analysis
+Geospatial Analysis
