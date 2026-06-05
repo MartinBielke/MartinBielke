@@ -21,7 +21,7 @@
 
 ✔ 🇩🇪 German teacher and translator (DE–ES–EN), experienced in digital language education and communication
 
-✔ 🎛️ Electronic music producer exploring algorithmic music, generative systems and creative coding
+✔ 🎛️ Electronic music producer working with algorithmic music, generative systems and creative coding projects in Python
 
 ✔ 🤝 Open to collaborations in health tech, data science, automation, education and public-interest technology
 
