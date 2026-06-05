@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Martin Bielke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Interdisciplinary developer working at the intersection of health, data and critical thinking
-Building data-driven solutions for healthcare, environmental monitoring and decision support
+## Interdisciplinary developer working at the intersection of health, data and critical thinking. Building data-driven solutions for healthcare, environmental monitoring and decision support
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
