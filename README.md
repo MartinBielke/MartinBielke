@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Martin Bielke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Interdisciplinary developer working at the intersection of health, data and critical thinking. Building data-driven solutions for healthcare, environmental monitoring and decision support
+## Interdisciplinary developer building data-driven solutions for healthcare, environmental monitoring and education
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -21,11 +21,11 @@
 
 ✔ 🇩🇪 German teacher and translator (DE–ES–EN), experienced in digital language education and communication
 
-✔ 🎛️ Electronic music producer exploring synthesis, sequencing and creative systems
+✔ 🎛️ Electronic music producer exploring algorithmic music, generative systems and creative coding
 
 ✔ 🤝 Open to collaborations in health tech, data science, automation, education and public-interest technology
 
-## Featured Projects
+## Project Highlights (More projects available in my repositories)
 
 ### 🏥 Stroke Care Capacity Mapping System
 
