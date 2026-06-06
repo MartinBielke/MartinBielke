@@ -4,26 +4,32 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-
 ✔ 🧠 Developing healthcare decision-support systems focused on stroke (ACV) networks and hospital resource mapping
 
-✔ 🤖 Designing conversational bots (Telegram / WhatsApp) for structured data collection and automated reporting
+✔ 🤖 Designing conversational bots (Telegram / WhatsApp) for structured data collection, automated reporting and workflow automation
 
 ✔ 🗺️ Applying geospatial analysis to improve healthcare accessibility and support evidence-based decision making
 
 ✔ 🔥 Building environmental monitoring and early-warning systems for wildfire risk detection
 
-✔ 💻 Working with Python, Jupyter, data analysis and automation workflows, while exploring AI integration and no-code orchestration tools
+✔ 🎓 Exploring Educational Data Science and Machine Learning applications for student retention, early-warning systems and learning analytics
 
-✔ 📊 Interested in data-driven approaches to public health, environmental monitoring and social-impact technology
+✔ 📈 Developing predictive models using Python, Scikit-Learn and synthetic/real-world datasets to support evidence-based decision making
+
+✔ 🧩 Interested in Explainable AI (XAI), predictive analytics and practical AI solutions for public-sector challenges
+
+✔ 💻 Building data-driven applications with Python, Jupyter, Machine Learning, automation workflows and AI-assisted development tools
+
+✔ 📊 Interested in data-driven approaches to public health, environmental monitoring, education and social-impact technology
 
 ✔ 📚 PhD in Philosophy with a strong interest in technology, media, critical thinking and interdisciplinary problem-solving
 
-✔ 🇩🇪 German teacher and translator (DE–ES–EN), experienced in digital language education and communication
+✔ 🇩🇪 German teacher and translator (DE–ES–EN), experienced in digital language education, curriculum design and communication
 
 ✔ 🎛️ Electronic music producer working with algorithmic music, generative systems and creative coding projects in Python
 
-✔ 🤝 Open to collaborations in health tech, data science, automation, education and public-interest technology
+✔ 🤝 Open to collaborations in health tech, data science, machine learning, automation, education and public-interest technology
+
 
 ## Project Highlights
 
