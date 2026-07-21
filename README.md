@@ -30,8 +30,7 @@
 
 ✔ 🎛️ Electronic music producer working with algorithmic music, generative systems and creative coding projects in Python
 
-✔ 🤝 Open to collaborations in health tech, data science, machine learning, automation, education and public-interest technology
-
+✔ 🤝 Open to collaborations in health tech, data science, machine learning, automation, education, AI governance/safety and public-interest technology
 
 ## Project Highlights
 
