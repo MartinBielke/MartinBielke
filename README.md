@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
+✔ 🛡️ Building AI governance & risk-classification tools (EU AI Act, NIST AI RMF, NY Local Law 144) — comparing rule-based vs. LLM-based compliance classifiers and measuring where each fails
+
 ✔ 🧠 Developing healthcare decision-support systems focused on stroke (ACV) networks and hospital resource mapping
 
 ✔ 🤖 Designing conversational bots (Telegram / WhatsApp) for structured data collection, automated reporting and workflow automation
