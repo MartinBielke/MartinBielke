@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Martin Bielke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Interdisciplinary developer building data-driven solutions for healthcare, environmental monitoring and education
+## Interdisciplinary developer building data-driven solutions for healthcare, environmental monitoring and education — with a growing focus on AI safety, governance, and responsible deployment.
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
